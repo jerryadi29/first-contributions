@@ -17,6 +17,7 @@
 - [Wint Wah Phoo](https://github.com/WintWahPhoo98)
 - [Lynzie Zhu](https://github.com/lynzie)
 - [Leo Purba](https://github.com/leopurba)
+- [Aditya Rout](https://github.com/jerryadi29)
 - [gindo](https://github.com/gindoprinansinaga)
 - [acs237](https://github.com/acs237)
 - [Soham Roy](https://github.com/sohamroy19)
